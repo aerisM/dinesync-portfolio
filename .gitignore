@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+google-services.json
+marking.properties
+local.properties
+*.jks
+*.keystore
